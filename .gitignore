@@ -4,3 +4,4 @@ target/
 repository/
 repository.tar.gz
 test.pem
+myjre/
