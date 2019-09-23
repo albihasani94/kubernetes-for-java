@@ -1,4 +1,4 @@
-FROM debian:9-slim
+FROM alpine:latest
 
 COPY target/greeting.war /root
 COPY myjre /root/myjre
